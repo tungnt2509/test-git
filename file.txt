@@ -1,0 +1,4 @@
+﻿git clone - coppy code từ trên serve xuống
+git commit - commit code (code này đã đúng rồi - ở trên local)
+git push - đẩy code đúng lên serve ()
+git pull - lấy code mới về
